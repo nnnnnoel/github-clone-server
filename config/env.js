@@ -1,0 +1,6 @@
+module.exports = {
+  GITHUB_TOKEN: '8d722eb6323ac27d8124793890c195e266df1057',
+  CLIENT_ID: '3efd620038b89d90fef9',
+  CLIENT_SECRET: '0b8f9e08a7df165fbbe84a6b1472a079605478d9',
+  HOST: 'http://localhost:8080/'
+};
